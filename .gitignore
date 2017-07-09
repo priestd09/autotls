@@ -1,4 +1,14 @@
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
+.DS_Store
+.vscode
+.ideas
+
+# Debug files
+*.dSYM/
+*.su
+debug
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
 *.so
