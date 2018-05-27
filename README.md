@@ -9,11 +9,11 @@
 
 Support Let's Encrypt for a Go server application, based on [gin-cors](https://github.com/gin-gonic/autotls).
 
-## example
+## examples
 
 example for 1-line LetsEncrypt HTTPS servers.
 
-[embedmd]:# (example/example1.go go)
+[embedmd]:# (examples/example1.go go)
 ```go
 package main
 
@@ -38,7 +38,7 @@ func main() {
 
 example for custom autocert manager.
 
-[embedmd]:# (example/example2.go go)
+[embedmd]:# (examples/example2/example2.go go)
 ```go
 package main
 
