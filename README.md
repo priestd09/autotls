@@ -7,7 +7,7 @@
 [![GoDoc](https://godoc.org/github.com/go-ego/autotls?status.svg)](https://godoc.org/github.com/go-ego/autotls)
 [![Join the chat at https://gitter.im/go-ego/autotls](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/go-ego/autotls?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Support Let's Encrypt for a Go server application, based on [gin-cors](https://github.com/gin-gonic/autotls).
+Support Let's Encrypt for a Go server application, based on [autotls](https://github.com/gin-gonic/autotls).
 
 ## examples
 
